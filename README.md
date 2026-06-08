@@ -9,3 +9,4 @@ Hash libraries for [UniPyX](https://github.com/smiRaphi/UniPyX)
 * sine_mora.bhl: https://github.com/lab313ru/sine_mora_tools/tree/master/extractor_py + Custom
 * xbxde.bhl: https://github.com/Nenkai/XbxDeTool + Custom
 * pivotal.bhl: https://github.com/Ekey/CE.DAT.Tool + Custom
+* rsdk.bhl: https://github.com/search?q=%22Bytecode%2FGlobalCode.bin%22+language%3AText&type=code&l=Text
