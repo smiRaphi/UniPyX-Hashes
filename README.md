@@ -11,3 +11,4 @@ Hash libraries & other big stuff for [UniPyX](https://github.com/smiRaphi/UniPyX
 * pivotal.pyob: https://github.com/Ekey/CE.DAT.Tool + Custom
 * rsdk.pyob: https://github.com/search?q=%22Bytecode%2FGlobalCode.bin%22+language%3AText&type=code&l=Text
 * forza_keys.pyob: https://github.com/Doliman100/ForzaTech-crypto-tool
+* mitsurugi.pyob: https://reshax.com/files/file/2341-mkpkunpackerrar (https://github.com/Ekey) + Custom
