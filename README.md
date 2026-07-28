@@ -13,3 +13,4 @@ Hash libraries & other big stuff for [UniPyX](https://github.com/smiRaphi/UniPyX
 * forza_keys.pyob: https://github.com/Doliman100/ForzaTech-crypto-tool
 * mitsurugi.pyob: https://reshax.com/files/file/2341-mkpkunpackerrar (https://github.com/Ekey) + Custom
 * westwood_mixc/3.pyob: https://github.com/gibbo101/cnc-ra-tiberian-factions/blob/main/tools/mixtool/mixnamedb_dat
+* nlg.pyob: https://github.com/KillzXGaming/Metroid-Fed-Force-Dumper/blob/main/NextLevelLibrary/Hashes/FileNames.txt + https://github.com/KillzXGaming/Metroid-Fed-Force-Dumper/blob/main/NextLevelLibrary/Hashes/Misc.txt
