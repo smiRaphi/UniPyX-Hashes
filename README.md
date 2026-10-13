@@ -14,3 +14,4 @@ Hash libraries & other big stuff for [UniPyX](https://github.com/smiRaphi/UniPyX
 * mitsurugi.pyob: https://reshax.com/files/file/2341-mkpkunpackerrar (https://github.com/Ekey) + Custom
 * westwood_mixc/3.pyob: https://github.com/gibbo101/cnc-ra-tiberian-factions/blob/main/tools/mixtool/mixnamedb_dat
 * nlg.pyob: https://github.com/KillzXGaming/Metroid-Fed-Force-Dumper/blob/main/NextLevelLibrary/Hashes/FileNames.txt + https://github.com/KillzXGaming/Metroid-Fed-Force-Dumper/blob/main/NextLevelLibrary/Hashes/Misc.txt
+* webfoot_ds.pyob: https://github.com/irdkwia/webfoot-ds-pak/tree/main/namelists
